@@ -118,9 +118,9 @@ Led the creation of a captivating static web page with a modern UI design, prior
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=theprakharsaxena&show_icons=true&locale=en&layout=compact&theme=radical)
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theprakharsaxena&show_icons=true&locale=en&theme=radical)
+  <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theprakharsaxena&show_icons=true&locale=en&theme=radical)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=theprakharsaxena&theme=radical)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=theprakharsaxena&theme=radical) -->
   
 </div>
 

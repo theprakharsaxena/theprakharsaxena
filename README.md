@@ -12,7 +12,7 @@
 
 I'm a passionate **Frontend Developer** from India, specializing in modern web technologies and creating exceptional user experiences. I love turning complex problems into simple, beautiful, and intuitive solutions.
 
-- 🔭 **Currently working on:** [Stock Register](https://www.stockregister.in/) - A comprehensive stock management platform
+- 🔭 **Currently working at:** [Stock Register](https://www.stockregister.in/) - A stock management company
 - 🌱 **Currently learning:** ReactJS, NextJS, NodeJS, ExpressJS
 - 💼 **Experience:** [View my resume](https://drive.google.com/file/d/1DyBjNoVD2ygSdGzIbLwNkwIcs7YA1DyJ/view?usp=sharing)
 - 📧 **Contact:** prakharsaxena5125@gmail.com
@@ -71,14 +71,13 @@ I'm a passionate **Frontend Developer** from India, specializing in modern web t
   
 </div>
 
-## 🎯 What I'm Working On
+## 🎯 Current Role
 
-Currently focused on building **Stock Register** - a comprehensive stock management platform that helps businesses efficiently manage their inventory, track stock levels, and streamline their operations.
+Currently working as a **Frontend Developer** at **Stock Register** - a stock management company where I contribute to building web applications and improving user experiences.
 
 ## 🌟 Featured Projects
 
-- **[Stock Register](https://www.stockregister.in/)** - A comprehensive stock management platform
-- *More projects coming soon...*
+- *Projects coming soon...*
 
 ---
 

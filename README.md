@@ -4,7 +4,7 @@
   
   ![Profile Views](https://komarev.com/ghpvc/?username=theprakharsaxena&label=Profile%20views&color=0e75b6&style=flat)
   
-  ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=theprakharsaxena&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+  ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=theprakharsaxena&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=7)
   
 </div>
 

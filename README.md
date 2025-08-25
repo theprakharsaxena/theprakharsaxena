@@ -53,17 +53,7 @@ I'm a passionate **Frontend Developer** from India, specializing in modern web t
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
 
-## 📊 GitHub Stats
 
-<div align="center">
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=theprakharsaxena&show_icons=true&locale=en&layout=compact&theme=radical)
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theprakharsaxena&show_icons=true&locale=en&theme=radical)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=theprakharsaxena&theme=radical)
-  
-</div>
 
 ## 🤝 Connect With Me
 
@@ -71,7 +61,7 @@ I'm a passionate **Frontend Developer** from India, specializing in modern web t
   
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prakhar-saxena-ps)
   [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prakharsaxena5125@gmail.com)
-  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theprakharsaxena)
+  [![GitHub](https://img.shields.io/badge/-GitHub-jhgv1717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theprakharsaxena)
   
 </div>
 

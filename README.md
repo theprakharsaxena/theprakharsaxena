@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a skilled **Frontend Developer** with over **2 years of experience** who loves making cool stuff on the internet. I'm good at mixing creativity and technical skills to meet project goals. Based in Bareilly, India, I specialize in modern web technologies and creating exceptional user experiences.
+I'm a skilled **Frontend Developer** with over **3 years of experience** who loves making cool stuff on the internet. I'm good at mixing creativity and technical skills to meet project goals. Based in Bareilly, India, I specialize in modern web technologies and creating exceptional user experiences.
 
 - 🔭 **Currently working at:** [Stock Register](https://www.stockregister.in/) - Stock Management Company
 - 🌱 **Currently learning:** ReactJS, NextJS, NodeJS, ExpressJS
